@@ -1,0 +1,14 @@
+.SearchBar {
+  width: 40%;
+  height: 40px;
+  margin: 24px 0;
+  padding-left: 16px;
+  box-sizing: border-box;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  letter-spacing: .25em;
+}
+
+.SearchBar:focus {
+  outline: none;
+}

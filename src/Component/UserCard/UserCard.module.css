@@ -1,0 +1,16 @@
+.Container {
+  margin: 0 16px;
+  width: 250px;
+  background: #c5c5c5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid lightgrey;
+}
+
+.Image {
+  height: 150px;
+  width: 125px;
+  margin: 16px 0;
+  background: lightgrey;
+}
